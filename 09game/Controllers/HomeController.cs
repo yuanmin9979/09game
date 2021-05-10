@@ -20,7 +20,7 @@ namespace _09game.Controllers
 
         public IActionResult Index()
         {
-            return Json("1111");
+            return Json("来吧展示");
         }
 
         public IActionResult Privacy()
